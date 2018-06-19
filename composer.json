@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Quesurifn\\AdWords\\": "src"
+            "SchulzeFelix\\AdWords\\": "src"
         }
     },
     "config": {
@@ -36,10 +36,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Quesurifn\\AdWords\\AdWordsServiceProvider"
+                "SchulzeFelix\\AdWords\\AdWordsServiceProvider"
             ],
             "aliases": {
-                "AdWords": "Quesurifn\\AdWords\\AdWordsFacade"
+                "AdWords": "SchulzeFelix\\AdWords\\AdWordsFacade"
             }
         }
     }
