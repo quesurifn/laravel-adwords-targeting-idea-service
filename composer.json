@@ -1,6 +1,6 @@
 {
     "name": "quesofat/laravel-adwords-targeting-idea-service",
-    "description": "Laravel wrapper for the AdWords Targeting Idea Service",
+    "description": "Laravel wrapper for the AdWords Targeting Idea Service; Taken from Felix Schulze, this version removes 5.5 requirement",
     "keywords": [
         "SchulzeFelix",
         "Laravel AdWords",
